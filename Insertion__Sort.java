@@ -10,7 +10,7 @@ public class Insertion__Sort {
         // int[] arr = new int[arrSize];
         // for (int i = 0; i < arr.length; i++) {
         // arr[i] = sc.nextInt();
-        // }
+        }
         // Arrays.sort(arr);
         // bubbleSortMethod(arr);
         // selectionSortMethod(arr);
