@@ -6,7 +6,7 @@ public class Mid_Term {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
-        System.out.println("Enter the value in Array");
+        System.out.println("Enter  in Array");
         int arrSize = sc.nextInt();
         int[] arr = new int[arrSize];
         for (int i = 0; i < arr.length; i++) {
